@@ -1,0 +1,23 @@
+{
+  "name": "daisystem",
+  "version": "1.0.0",
+  "description": "俺専用ゲームエンジン",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daishihmr/d.git"
+  },
+  "author": "@daishi_hmr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daishihmr/d/issues"
+  },
+  "homepage": "https://github.com/daishihmr/d",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-closure-compiler": "0.0.21"
+  }
+}
